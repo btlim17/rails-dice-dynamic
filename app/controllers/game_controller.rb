@@ -14,3 +14,4 @@ class GameController < ApplicationController
     end
     render({:template => "game_template/flex"})
   end
+end
